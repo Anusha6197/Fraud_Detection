@@ -1,4 +1,4 @@
-Credit Card Fraud Detection Machine Learning Models
+# Credit Card Fraud Detection Machine Learning Models
 
 Business Problem Overview
 With the rise of digital payment channels, the number of fraudulent transactions is going very high day by day. It has been estimated by Nilson report that by 2020 the banking frauds would account to $30 billion worldwide. It is difficult to manually predict fraudulent transactions which is also error prone 
